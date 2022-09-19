@@ -1,5 +1,11 @@
 ### Olá seja muito bem vindo ao meu GitHub.
 
+### Contato
+### Contact
+
+
+<b>Let's talk? </b> <b>Bora conversar? </b>  <a href="https://www.linkedin.com/in/allef-souza-47331a237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> <b> ? </b> 
+
 
 Eu sou Allef, Estudante de programação FullStack, atualmente estou na parte Back-end sendo que já formei em Front-end, amo tecnologia, e estou em constante aprendizado sempre, pois a tecnologia não para.
 
