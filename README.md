@@ -2,14 +2,14 @@
 
 Olá! Sou um desenvolvedor web com experiência nas seguintes tecnologias:
 
- [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) Javascript
- [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) Typescript
- [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML
- [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS
- [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) Node.js
- [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev) Express
- [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) MySQL
- [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) React
+ [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) 
 
 
 ## Sobre mim
